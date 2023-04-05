@@ -1,0 +1,15 @@
+C:\Users\陈伟\source\repos\Learn\learn1\bin\Debug\net6.0\learn1.exe
+C:\Users\陈伟\source\repos\Learn\learn1\bin\Debug\net6.0\learn1.deps.json
+C:\Users\陈伟\source\repos\Learn\learn1\bin\Debug\net6.0\learn1.runtimeconfig.json
+C:\Users\陈伟\source\repos\Learn\learn1\bin\Debug\net6.0\learn1.dll
+C:\Users\陈伟\source\repos\Learn\learn1\bin\Debug\net6.0\learn1.pdb
+C:\Users\陈伟\source\repos\Learn\learn1\obj\Debug\net6.0\learn1.csproj.AssemblyReference.cache
+C:\Users\陈伟\source\repos\Learn\learn1\obj\Debug\net6.0\learn1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\陈伟\source\repos\Learn\learn1\obj\Debug\net6.0\learn1.AssemblyInfoInputs.cache
+C:\Users\陈伟\source\repos\Learn\learn1\obj\Debug\net6.0\learn1.AssemblyInfo.cs
+C:\Users\陈伟\source\repos\Learn\learn1\obj\Debug\net6.0\learn1.csproj.CoreCompileInputs.cache
+C:\Users\陈伟\source\repos\Learn\learn1\obj\Debug\net6.0\learn1.dll
+C:\Users\陈伟\source\repos\Learn\learn1\obj\Debug\net6.0\refint\learn1.dll
+C:\Users\陈伟\source\repos\Learn\learn1\obj\Debug\net6.0\learn1.pdb
+C:\Users\陈伟\source\repos\Learn\learn1\obj\Debug\net6.0\learn1.genruntimeconfig.cache
+C:\Users\陈伟\source\repos\Learn\learn1\obj\Debug\net6.0\ref\learn1.dll

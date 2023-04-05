@@ -1,0 +1,11 @@
+C:\Users\陈伟\source\repos\jinitaimei\jinitaimei\bin\Debug\jinitaimei.exe.config
+C:\Users\陈伟\source\repos\jinitaimei\jinitaimei\bin\Debug\jinitaimei.exe
+C:\Users\陈伟\source\repos\jinitaimei\jinitaimei\bin\Debug\jinitaimei.pdb
+C:\Users\陈伟\source\repos\jinitaimei\jinitaimei\obj\Debug\jinitaimei.csproj.AssemblyReference.cache
+C:\Users\陈伟\source\repos\jinitaimei\jinitaimei\obj\Debug\jinitaimei.csproj.SuggestedBindingRedirects.cache
+C:\Users\陈伟\source\repos\jinitaimei\jinitaimei\obj\Debug\jinitaimei.Form1.resources
+C:\Users\陈伟\source\repos\jinitaimei\jinitaimei\obj\Debug\jinitaimei.Properties.Resources.resources
+C:\Users\陈伟\source\repos\jinitaimei\jinitaimei\obj\Debug\jinitaimei.csproj.GenerateResource.cache
+C:\Users\陈伟\source\repos\jinitaimei\jinitaimei\obj\Debug\jinitaimei.csproj.CoreCompileInputs.cache
+C:\Users\陈伟\source\repos\jinitaimei\jinitaimei\obj\Debug\jinitaimei.exe
+C:\Users\陈伟\source\repos\jinitaimei\jinitaimei\obj\Debug\jinitaimei.pdb

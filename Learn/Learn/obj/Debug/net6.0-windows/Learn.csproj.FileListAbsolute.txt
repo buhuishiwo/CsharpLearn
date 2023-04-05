@@ -1,0 +1,17 @@
+C:\Users\陈伟\source\repos\Learn\Learn\bin\Debug\net6.0-windows\Learn.exe
+C:\Users\陈伟\source\repos\Learn\Learn\bin\Debug\net6.0-windows\Learn.deps.json
+C:\Users\陈伟\source\repos\Learn\Learn\bin\Debug\net6.0-windows\Learn.runtimeconfig.json
+C:\Users\陈伟\source\repos\Learn\Learn\bin\Debug\net6.0-windows\Learn.dll
+C:\Users\陈伟\source\repos\Learn\Learn\bin\Debug\net6.0-windows\Learn.pdb
+C:\Users\陈伟\source\repos\Learn\Learn\obj\Debug\net6.0-windows\Learn.csproj.AssemblyReference.cache
+C:\Users\陈伟\source\repos\Learn\Learn\obj\Debug\net6.0-windows\Learn.Form1.resources
+C:\Users\陈伟\source\repos\Learn\Learn\obj\Debug\net6.0-windows\Learn.csproj.GenerateResource.cache
+C:\Users\陈伟\source\repos\Learn\Learn\obj\Debug\net6.0-windows\Learn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\陈伟\source\repos\Learn\Learn\obj\Debug\net6.0-windows\Learn.AssemblyInfoInputs.cache
+C:\Users\陈伟\source\repos\Learn\Learn\obj\Debug\net6.0-windows\Learn.AssemblyInfo.cs
+C:\Users\陈伟\source\repos\Learn\Learn\obj\Debug\net6.0-windows\Learn.csproj.CoreCompileInputs.cache
+C:\Users\陈伟\source\repos\Learn\Learn\obj\Debug\net6.0-windows\Learn.dll
+C:\Users\陈伟\source\repos\Learn\Learn\obj\Debug\net6.0-windows\refint\Learn.dll
+C:\Users\陈伟\source\repos\Learn\Learn\obj\Debug\net6.0-windows\Learn.pdb
+C:\Users\陈伟\source\repos\Learn\Learn\obj\Debug\net6.0-windows\Learn.genruntimeconfig.cache
+C:\Users\陈伟\source\repos\Learn\Learn\obj\Debug\net6.0-windows\ref\Learn.dll

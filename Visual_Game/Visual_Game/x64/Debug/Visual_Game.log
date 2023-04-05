@@ -1,0 +1,4 @@
+﻿  EasyX.cpp
+C:\Users\陈伟\source\repos\Visual_Game\Visual_Game\EasyX.cpp(19,9): warning C4101: “y”: 未引用的局部变量
+C:\Users\陈伟\source\repos\Visual_Game\Visual_Game\EasyX.cpp(19,6): warning C4101: “x”: 未引用的局部变量
+  Visual_Game.vcxproj -> C:\Users\陈伟\source\repos\Visual_Game\x64\Debug\Visual_Game.exe

@@ -1,0 +1,8 @@
+C:\Users\陈伟\source\repos\Winform2\Contin\bin\Debug\Contin.exe.config
+C:\Users\陈伟\source\repos\Winform2\Contin\bin\Debug\Contin.exe
+C:\Users\陈伟\source\repos\Winform2\Contin\bin\Debug\Contin.pdb
+C:\Users\陈伟\source\repos\Winform2\Contin\obj\Debug\Contin.csproj.AssemblyReference.cache
+C:\Users\陈伟\source\repos\Winform2\Contin\obj\Debug\Contin.csproj.SuggestedBindingRedirects.cache
+C:\Users\陈伟\source\repos\Winform2\Contin\obj\Debug\Contin.csproj.CoreCompileInputs.cache
+C:\Users\陈伟\source\repos\Winform2\Contin\obj\Debug\Contin.exe
+C:\Users\陈伟\source\repos\Winform2\Contin\obj\Debug\Contin.pdb

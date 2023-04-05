@@ -1,0 +1,19 @@
+﻿  jiegouti2.c
+C:\Users\陈伟\source\repos\Project3\Project3\jiegouti2.c(30,11): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“char (*)[10]”
+C:\Users\陈伟\source\repos\Project3\Project3\jiegouti2.c(30,11): message : 此参数用作缓冲区大小
+C:\Users\陈伟\source\repos\Project3\Project3\jiegouti2.c(30,11): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 3 拥有了类型“int *”
+C:\Users\陈伟\source\repos\Project3\Project3\jiegouti2.c(30,11): message : 此参数由转换说明符使用
+C:\Users\陈伟\source\repos\Project3\Project3\jiegouti2.c(30,11): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“int *”
+C:\Users\陈伟\source\repos\Project3\Project3\jiegouti2.c(30,11): message : 此参数用作缓冲区大小
+C:\Users\陈伟\source\repos\Project3\Project3\jiegouti2.c(30,11): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+C:\Users\陈伟\source\repos\Project3\Project3\jiegouti2.c(30,11): message : 占位符和其参数预计 7 可变参数，但提供的却是 5 参数
+C:\Users\陈伟\source\repos\Project3\Project3\jiegouti2.c(30,11): message : 缺失的可变参数 6 为格式字符串“%d”所需
+C:\Users\陈伟\source\repos\Project3\Project3\jiegouti2.c(37,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+C:\Users\陈伟\source\repos\Project3\Project3\jiegouti2.c(37,10): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+C:\Users\陈伟\source\repos\Project3\Project3\jiegouti2.c(37,10): message : 缺失的可变参数 2 为格式字符串“%s”所需
+C:\Users\陈伟\source\repos\Project3\Project3\jiegouti2.c(37,10): message : 此参数用作缓冲区大小
+C:\Users\陈伟\source\repos\Project3\Project3\jiegouti2.c(39,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+C:\Users\陈伟\source\repos\Project3\Project3\jiegouti2.c(39,10): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+C:\Users\陈伟\source\repos\Project3\Project3\jiegouti2.c(39,10): message : 缺失的可变参数 2 为格式字符串“%s”所需
+C:\Users\陈伟\source\repos\Project3\Project3\jiegouti2.c(39,10): message : 此参数用作缓冲区大小
+  Project3.vcxproj -> C:\Users\陈伟\source\repos\Project3\x64\Debug\Project3.exe

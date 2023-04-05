@@ -1,0 +1,8 @@
+C:\Users\陈伟\source\repos\Winform2\jisuan\bin\Debug\jisuan.exe.config
+C:\Users\陈伟\source\repos\Winform2\jisuan\bin\Debug\jisuan.exe
+C:\Users\陈伟\source\repos\Winform2\jisuan\bin\Debug\jisuan.pdb
+C:\Users\陈伟\source\repos\Winform2\jisuan\obj\Debug\jisuan.csproj.AssemblyReference.cache
+C:\Users\陈伟\source\repos\Winform2\jisuan\obj\Debug\jisuan.csproj.SuggestedBindingRedirects.cache
+C:\Users\陈伟\source\repos\Winform2\jisuan\obj\Debug\jisuan.csproj.CoreCompileInputs.cache
+C:\Users\陈伟\source\repos\Winform2\jisuan\obj\Debug\jisuan.exe
+C:\Users\陈伟\source\repos\Winform2\jisuan\obj\Debug\jisuan.pdb
